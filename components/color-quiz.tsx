@@ -114,7 +114,7 @@ const COLORS: ColorEntry[] = [
   { name: 'スレートグレー', reading: 'すれーとぐれー',     rgb: [112, 128, 144], family: 'gray',         note: '粘板岩のような青みがかった灰色。英語由来。' },
 ]
 
-const TOTAL = 10
+const TOTAL = 30
 
 // ──────────────────────────────────────────────
 // Helpers
